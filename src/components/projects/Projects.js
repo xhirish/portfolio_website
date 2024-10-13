@@ -15,51 +15,47 @@ import ProjectsCard from "./ProjectsCard";
 const Projects = () => {
   return (
     <div>
-      <Title title="Recent" subTitle="Projects" />
+      <Title title=" Scholastic " subTitle="Achievements" />
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 lgl:gap-10">
         <div className="px-6">
           <ProjectsCard
-            title="Blog Website"
-            category="Website"
+            title="Winner UNESCO India-Africa"
+            category="Hackathon 2022"
             image={workImgThree}
           />
           <ProjectsCard
-            title="Business Card Design"
-            category="Design"
+            title="Semi-Finalist Virtusa Jatayu"
+            category="Hackathon 2023"
             image={workImgOne}
           />
           <ProjectsCard
-            title="Infinity Logo"
-            category="Logo"
+            title="Winning Moments"
+            category="Competition"
             image={workImgTwo}
           />
           <ProjectsCard
-            title="Mobile Application"
-            category="Shopping"
+            title="Winning Moments"
+            category="Competiton"
             image={workImgFive}
           />
         </div>
         <div className="px-6">
           <ProjectsCard
-            title="Responsive website"
-            category="E-commerce"
+            title="Winner Smart India"
+            category="Hackathon 2022"
             image={workImgFour}
           />
           <ProjectsCard
-            title="Grapic Design"
-            category="Design"
+            title="Amazon ML Challenge top 140"
+            category="Competition"
             image={workImgSix}
           />
           <ProjectsCard
             title="Ideas & Blog"
-            category="Website"
+            category=""
             image={workImgEight}
           />
-          <ProjectsCard
-            title="ZOSS Logo"
-            category="Logo"
-            image={workImgSeven}
-          />
+          
         </div>
       </div>
     </div>

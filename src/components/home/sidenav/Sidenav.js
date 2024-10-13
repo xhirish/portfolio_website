@@ -10,21 +10,21 @@ const Sidenav = () => {
       </ul>
       <SidenavTitle title="P" subTitle="rojects" />
       <ul>
-        <li className="sidenavLi">Development</li>
+        <li className="sidenavLi">Developments</li>
         <li className="sidenavLi">E-commerce Website</li>
         <li className="sidenavLi">AMR Prediction using ML</li>
         <li className="sidenavLi">Portfolio Website</li>
-        <li className="sidenavLi">Alpha Medic App</li>
+        <li className="sidenavLi">Alpha Medic App Integrated with ML</li>
         <li className="sidenavLi">AI Image Genration Using MERN & DALL-E</li>
       </ul>
-      <SidenavTitle title="L" subTitle="atest Posts" />
+      <SidenavTitle title="U" subTitle="pdated Posts" />
       <ul>
         <li className="sidenavLi">AI Trainer at Outlier</li>
-        <li className="sidenavLi">How to become a creative designer</li>
+        <li className="sidenavLi">SOftware Development at ProDT</li>
         <li className="sidenavLi">
-          Designers thoughts about mobile UI templates
+          Project Managment & Agile Methodology
         </li>
-        <li className="sidenavLi">Designer Conference at Florida, USA 2020</li>
+        <li className="sidenavLi">Hackathon and Development</li>
       </ul>
       <SidenavTitle title="R" subTitle="each Me" />
       <ul>
